@@ -1,0 +1,8 @@
+ros-indigo-head-action (0.0.1-1trusty) trusty; urgency=high
+
+  * Add head_action
+  * Contributors: Bence Magyar, Sammy Pfeiffer
+
+ -- Bence Magyar <bence.magyar@pal-robotics.com>  Wed, 22 Jul 2015 22:00:00 -0000
+
+
